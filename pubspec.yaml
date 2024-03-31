@@ -43,6 +43,10 @@ dependencies:
   firebase_storage: ^11.6.5
   image_picker: ^1.0.7
   cloud_firestore: ^4.15.10
+  path_provider: 
+  open_file:
+  dio: 
+  google_fonts: 
   
 
 dev_dependencies:

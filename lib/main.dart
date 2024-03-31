@@ -29,6 +29,7 @@ class MyApp extends StatelessWidget {
       title: 'Podcast App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        
       ),
       home:  Auth(),
       routes: {
